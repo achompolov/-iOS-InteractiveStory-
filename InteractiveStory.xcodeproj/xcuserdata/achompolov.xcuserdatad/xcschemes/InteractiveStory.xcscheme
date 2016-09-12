@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F2F0A4FD1D5273C30033EAE2"
+               BlueprintIdentifier = "CD3BA5051C892F2B00B543B6"
                BuildableName = "InteractiveStory.app"
                BlueprintName = "InteractiveStory"
                ReferencedContainer = "container:InteractiveStory.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2F0A4FD1D5273C30033EAE2"
+            BlueprintIdentifier = "CD3BA5051C892F2B00B543B6"
             BuildableName = "InteractiveStory.app"
             BlueprintName = "InteractiveStory"
             ReferencedContainer = "container:InteractiveStory.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2F0A4FD1D5273C30033EAE2"
+            BlueprintIdentifier = "CD3BA5051C892F2B00B543B6"
             BuildableName = "InteractiveStory.app"
             BlueprintName = "InteractiveStory"
             ReferencedContainer = "container:InteractiveStory.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2F0A4FD1D5273C30033EAE2"
+            BlueprintIdentifier = "CD3BA5051C892F2B00B543B6"
             BuildableName = "InteractiveStory.app"
             BlueprintName = "InteractiveStory"
             ReferencedContainer = "container:InteractiveStory.xcodeproj">
