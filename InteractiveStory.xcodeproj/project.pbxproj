@@ -103,6 +103,7 @@
 					CD3BA5051C892F2B00B543B6 = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = KQ342N2Y27;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -265,6 +266,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.atanaschompolov.InteractiveStory;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -279,6 +281,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.atanaschompolov.InteractiveStory;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
