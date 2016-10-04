@@ -1,5 +1,6 @@
 # -iOS-InteractiveStory-
 [iOS] InteractiveStory  
 
-README.md
+Wikia - http://signals-from-mars.wikia.com/wiki/Signals_from_Mars_Wikia?action=edit&section=2
+Video - 
 
